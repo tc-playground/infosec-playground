@@ -1,2 +1,3 @@
-# infosec-playground
+# Information Security Playground
+
 Understanding Security.
