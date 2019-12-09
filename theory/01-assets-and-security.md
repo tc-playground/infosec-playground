@@ -1,32 +1,24 @@
-# The Threat Landscape
+# Assets and Security
 
 ## Introduction
 
-1. `Security`
-
-2. `Privacy`
-
-3. `Anonymity`
+* `Cyber Security` is about protecting `digital assets` and everything associated with them.
 
 ---
 
-## Protect what you Value
+## Assets
 
-1. `Resources` vs `Security`
+1. `Assets` - Valuable things to protect.
 
-2. Protection of `Security Assets`.
-
-    * What to protect and how important is. 
-
-    * Asset Lists.  
+    * Privacy, Anonymity, Activity, Identity, Location, Accounts, Email, Financials, etc.
 
 ---
 
 ## Privacy, Anonymity, and, Pseudo-anonymity
 
-1. `Privacy` - Protecting `content` and `activity`.
+1. `Privacy` - Protecting `content`.
 
-2. `Anonymity` - Protecting `identity`. Non-attributable to `activity`.
+2. `Anonymity` - Protecting `identity` - making `activity` non-attributable.
 
 3. `Pseudo Anonymity` - Protecting `actual identity`. Maintain a `representation of identity`. Alias.
 
