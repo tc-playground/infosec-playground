@@ -12,6 +12,12 @@
 
     * Privacy, Anonymity, Activity, Identity, Location, Accounts, Email, Financials, etc.
 
+2. `Assets` need not be __physical things__. They can also be `organisational`, `people`, `processes`, `functions`, etc. 
+
+3. Loss of control of an `asset` will lead to __consequences__. 
+
+    * _CyberSec is the understanding and management of this `risk`_.
+
 ---
 
 ## Privacy, Anonymity, and, Pseudo-anonymity
@@ -36,7 +42,7 @@
 
     > __Security Process__ : `Select` -> `Implement` -> `Assess` -> `Monitor`
 
-3. `Vulnerabilities` - `Known` and `unknown` ways that security assets are at risk.
+3. `Vulnerabilities` - `Known` and `unknown` ways that security assets are at `risk`.
 
     * Bugs, poor actions.
 
@@ -52,17 +58,13 @@
 
 ## Risk Assessments and Threat Modelling
 
-> __Risk__ = (_Vulnerabilities_ x _Threats_ x _Consequences_)
+1. __Risk__ = (_Vulnerabilities_ x _Threats_ x _Consequences_)
 
-1. `Consequences` - The severity of outcome when an asset is compromised.
-
-2. `Assets` need not be __physical things__. They can also be `organisational`, `people`, `processes`, `functions`, etc. 
-
-3. A particular `asset` has particular `security controls`, `vulnerabilities`, `threats`, and `adversaries`.
+2. A particular `asset` has particular `security controls`, `vulnerabilities`, `threats`, and `adversaries`.
 
 > __NB__: `Security`, `Privacy`, `Anonymity`, `Practicality` are __often in conflict__ and `security controls` need to be appropriate
 
-4. `Security Attributes` - Are ways of classifying `assets` to determine what `security controls` are appropriate.
+3. `Security Attributes` - Are ways of classifying `assets` to determine what `security controls` are appropriate.
 
     1. `CIA Triad`
 
