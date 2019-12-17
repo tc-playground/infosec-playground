@@ -1,17 +1,28 @@
 {
     "cSpell.words": [
         "Backdoors",
+        "Citrix",
         "Cryptojackers",
         "Darknet",
         "Doxing",
         "Malvertisement",
         "Metasploit",
+        "Mitigations",
+        "Mware",
         "Parkerian",
         "Possesion",
         "SABSA",
         "SMSing",
+        "Sandboxie",
         "Scareware",
         "Vishing",
-        "rnicrosoft"
+        "choco",
+        "compartmentalisation",
+        "firejail",
+        "rnicrosoft",
+        "sandboxd",
+        "sandboxed",
+        "seccomp",
+        "utilised"
     ]
 }
