@@ -1,12 +1,12 @@
 # The Threat Landscape
 
-## The need for Security
+## The need for Security - Why do we need it?
 
 1. Many attacks are not targeted; they are automated with a wide-cast by botnets and automated tools.
 
 2. All digital resources (servers, accounts, identities, etc) are valuable; either in themselves or as a step towards some other resource.
 
-3. `Complexity` is the enemy of `Security`.
+> `Complexity` is the enemy of `Security`.
 
 ---
 
@@ -18,27 +18,27 @@
 
       1. Known Vulnerabilities are assigned `CVE number`.
 
-         - - [Exploit DB](https://www.exploit-db.com/) - A database of known exploits.
+         * [Exploit DB](https://www.exploit-db.com/) - A database of known exploits.
 
       2. Known vulnerabilities often already have a `patch` to resolve the vulnerability.
 
       3. Know vulnerabilities are often used by hacking frameworks such a `Metasploit`.
 
-   2. `Unknown` - `Zero Day Vulnerabilities`. These are often available for sale on the `dark web`.
+   2. `Unknown` / `Zero Day Vulnerabilities`. These are often available for sale on the `dark web`.
 
 ---
 
-## `Hackers` / `Cyber Criminals`
+## Who are the threats?
 
 1. Individuals or groups attempting to compromise resources with various motives.
 
 ---
 
-## `Malware`,
+## `Malware` - What are the software threats?
 
 1. `Viruses`
 
-   1. `Macro Virus` - In a scripting language for an application.
+   1. `Macro Virus` - In a scripting language for an application. e.g. `Excel` / `VBA`.
 
    2. `Stealth Virus`, `Polymorphic Virus`, `Self-garbling Virus` - Prevent detection from `Anti-Virus (AV)` software.
 
@@ -56,31 +56,31 @@
 
 6. `Ransomware` - Hijack a machine, encrypt the data, charge for the data to be decrypted.
 
-7. `Malvertisement` - Internet advertisements that contain a chain of scripts that install malware on the target machine.
+7. `Malvertisement` - Internet advertisements that contain (a chain of) scripts that install malware on the target machine.
 
 8. `Drive-by-Attacks` - Visiting a website that contains code to install malware on the target machine.
 
 9. `Spyware` - Intelligence gathering malware. To compromise `anonymity`.
 
-   1. `Adware` - Force advertisements and browser hijacking.
+   1. `Adware` - Force advertisements and browser hijacking. Annoying.
 
 10. `Scareware` - Fake advert forcing you to pay money for some service or product.
 
-11. `Potentially Unwanted PRograms (PUPs)` - Catch all for probably unwanted software.
+11. `Potentially Unwanted PRograms (PUPs)` - Catch all for probably unwanted software. Annoying.
 
 12. `CPU Hijackers / Cryptojackers` - Uses CPU to perform crypto-mining validation. Attack vectors include: applications, JavaScript.
 
 ---
 
-## Phishing / Vishing / SMSing
+## Phishing / Vishing / SMSing - What are the social threats?
 
 1. `Phishing` - Attempt to trick a user into clicking on a link a navigating to a site they do not expect.
 
-   1. `Obfuscated Domains` https://mynet.com/.google.com
+   1. `Obfuscated Domains` - e.g. https://mynet.com/.google.com
 
-   2. `Miss-spelling` - https//:www.rnicrosoft.com
+   2. `Miss-spelling` - e.g. https//:www.rnicrosoft.com
 
-   3. `IDN Homograph` - https://www.goog1e.com
+   3. `IDN Homograph` - e.g. https://www.goog1e.com
 
    4. `HTML Hidden Link` - <a href="https://www.goog1e.com">https://www.google.com</a>
 
@@ -90,29 +90,15 @@
 
 3. `SMSing` - _SMS_ phishing.
 
----
+4. `Spamming` - High broadcast, high volume e-mail distribution to trick a user.
 
-## Spamming
+5. `Doxing` - Performing research on an individual or organisation to obtain information they may not wish to be made public, or, for other purposes.
 
-1. `Spamming` - High broadcast, high volume e-mail distribution to trick a user.
-
----
-
-## Doxing
-
-1. `Doxing` - Performing research on an individual or organisation to obtain information they may not wish to be made public, or, for other purposes.
+6. `Social Engineering` - Trying to obtain information by pretending to be a different person.
 
 ---
 
-## Social Engineering / Scams / Fraud
-
-1. `Social Engineering` - Trying to obtain information by pretending to be a different person.
-
-2. `Scam` - Paying money for a product or service that does not exist, or, is different than advertised.
-
----
-
-## Darknet / Dark Web
+## Darknet / Dark Web - How to maintain anonymity?
 
 1. A `darknet` is an `encrypted overlay network` that requires specialised tools to access it.
 
@@ -120,13 +106,13 @@
 
     2. Other Examples: `Retro Share`, `12P Anonymous`, `GNU Net Framework`, `Freenet`, etc.
 
-    > Not a panacea for privacy or anonymity.
+    > NB: Not a panacea for privacy or anonymity. Various `identifiers` and `cookies` can be used to track identities.
 
 2. `Dark Markets` - Probably dogey stuff.
 
 ---
 
-## Spying and Hardware Attacks
+## Spying and Hardware Attacks - Is it possible to be fully protected?
 
 1. Individuals or organisations with enough resources are capable of performing _spy like_ attacks using:
 
@@ -136,7 +122,7 @@
 
 ---
 
-## Backdoors
+## Trust - Can I trust anyone?
 
 1. `Trust`- Can we trust the operating systems and application we use?
 
