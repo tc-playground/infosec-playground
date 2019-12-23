@@ -2,7 +2,7 @@
 
 ## Introduction
 
-1. Security requirements `availability`, `security`, `privacy`, `anonymity` , and are often __conflicting__.
+1. `Security domains` handle different security requirements `availability`, `security`, `privacy`, `anonymity` , and are often __conflicting__.
 
     * There are often `trade-offs` that are impossible to accomplish in `a single environment` e.g. Gaming vs Full-disk Encryption.
 
@@ -15,6 +15,10 @@
     1. `Physical` - e.g. Have a separate machines for tasks A and B.
 
     2. `Virtual (Isolation)` - e.g. User VMs or containers for tasks A and B.
+
+4. `Isolation and Compartmentalisation` is used to implement different `security domains`.
+
+> `MAC Addresses` are __unique__ so must be changed if _anonymity_ is important and there is a trace to the purchase of the card.
 
 ---
 
@@ -32,13 +36,17 @@
 
 ## Virtual Security Domain Mechanisms
 
-1. __Virtual Machines__
+1. __Dual Boot__
 
-2. __Containerised Applications__
+2. __Sandboxing__
 
-3. __Container based security operating systems__
+3. __Containerised Applications__
 
-4. __USB privacy based operating systems__
+4. __Virtual Machines__
 
-6. __Cloud provisioned machines__
+5. __Container based security operating systems__
+
+6. __USB privacy based operating systems__
+
+7. __Cloud provisioned machines__
 

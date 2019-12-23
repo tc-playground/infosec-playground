@@ -28,6 +28,12 @@
 
 ---
 
+## SSL Hardening
+
+1. [SSL Labs](https://www.ssllabs.com/projects/documentation/)
+
+---
+
 ## Debian
 
 1. [Debian Security](https://www.debian.org/security) - How to configure Debian patching.

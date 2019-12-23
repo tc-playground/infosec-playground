@@ -55,13 +55,15 @@
 
     2. `Windows Firewall` - Firewall.
 
-    2. `Bitlocker` - Disk encryption and firmware modification detection.
+    3. `Bitlocker` - Disk encryption and firmware modification detection.
 
         1. Window Pro only.
 
         2. Requires 2 partitions and `Trusted Platform Module (TPM)` hardware module. 
 
         3. Closed source. Backdoors? TrueCrypt? Trust?
+    
+    4. `Device Guard` - Used to check `Digital Signatures` of `drivers` and `software` and prevent them being executed if cannot be proved to be valid.
 
 4. __Settings__
 

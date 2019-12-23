@@ -34,6 +34,16 @@
 
 ---
 
+## Vulnerability Scanners
+
+1. [SSL Labs - Qualys](https://www.ssllabs.com)
+
+    * [Server / Domain SSL Test](https://www.ssllabs.com/ssltest) - Get information on enabled server SSL security, ciphersuites, etc.
+
+    * [User Agent (Browser) SSL Test](https://www.ssllabs.com/ssltest/viewMyClient.html)
+
+---
+
 ## Debian
 
 1. [Debian Security](https://www.debian.org/security/)
